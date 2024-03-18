@@ -1,0 +1,44 @@
+
+Q
+java:S37408"/Provide the parametrized type for this generic.(—ŒĞğüÿÿÿÿ8ÈÙ«©1
+L
+java:S3740;"/Provide the parametrized type for this generic.(€¢İ•8ÈÙ«©1
+Q
+java:S3740>"/Provide the parametrized type for this generic.(¹‘äªıÿÿÿÿ8ÈÙ«©1
+Q
+java:S3740A"/Provide the parametrized type for this generic.(Ú¢éÕùÿÿÿÿ8ÈÙ«©1
+Q
+java:S3740D"/Provide the parametrized type for this generic.(çºøÛüÿÿÿÿ8ÈÙ«©1
+Q
+java:S3740G"/Provide the parametrized type for this generic.(º™†šıÿÿÿÿ8ÈÙ«©1
+Q
+java:S3740J"/Provide the parametrized type for this generic.(ıø–»şÿÿÿÿ8ÈÙ«©1
+Q
+java:S3740L"/Provide the parametrized type for this generic.(Èâ–úÿÿÿÿ8ÈÙ«©1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°Î8ËÙ«©1
+q
+java:S2095w"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ŞŒ¨•şÿÿÿÿ8­·é«©1
+m
+java:S2095…"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ŒŞå÷8­·é«©1
+r
+java:S2095Æ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ôŒ½¶ûÿÿÿÿ8„Ù«©1
+r
+java:S2095¤"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8„Ù«©1
+
+java:S1186Z"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÎÎ·´8„Ù«©1
+£
+java:S1186_"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸ô¬âøÿÿÿÿ8…Ù«©1
+c
+java:S2147—"ECombine this catch with the one at line 149, which has the same body.(ıàÑÎ8‹Ù«©1
+c
+java:S2147×"ECombine this catch with the one at line 213, which has the same body.(ıàÑÎ8’Ù«©1
+P
+java:S1172Ş"2Remove this unused method parameter "actionEvent".(²¾ÏŒ8œÙ«©1
+M
+java:S1128"+Remove this unused import 'Model.Customer'.(Àğ”«ÿÿÿÿÿ8Ê·é«©1
+D
+java:S1128"'Remove this unused import 'Model.Item'.(®¯×‘8Ë·é«©1
+Y
+java:S1128"<Remove this unused import 'Model.tableModel.ItemTableModel'.(Üæí8Ë·é«©1
+R
+java:S1128&"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8Ë·é«©1

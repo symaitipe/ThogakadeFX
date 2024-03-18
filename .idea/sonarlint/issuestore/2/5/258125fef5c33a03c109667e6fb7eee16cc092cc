@@ -1,0 +1,49 @@
+
+Q
+java:S37403"/Provide the parametrized type for this generic.(±ü´ıÿÿÿÿ8¦®ß¬¨1
+Q
+java:S37406"/Provide the parametrized type for this generic.(¹Óşÿÿÿÿ8¦®ß¬¨1
+L
+java:S37409"/Provide the parametrized type for this generic.(ø£†ä8¦®ß¬¨1
+L
+java:S3740<"/Provide the parametrized type for this generic.(§çÆÙ8¦®ß¬¨1
+L
+java:S3740?"/Provide the parametrized type for this generic.(¦êĞø8¦®ß¬¨1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°Î8­®ß¬¨1
+m
+java:S2095™"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ĞÿŸÓ8˜¯ß¬¨1
+m
+java:S2095€"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ĞÿŸÓ8˜¯ß¬¨1
+r
+java:S2095¼"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8˜¯ß¬¨1
+q
+java:S2095i"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½ş„¥ıÿÿÿÿ8˜¯ß¬¨1
+w	java:S1163"VRename this field "col_Item_Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ü´ıÿÿÿÿ8™¯ß¬¨1
+{	java:S1166"ZRename this field "col_Item_Option" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Óşÿÿÿÿ8™¯ß¬¨1
+t	java:S1169"XRename this field "col_Item_desc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø£†ä8™¯ß¬¨1
+y	java:S116<"]Rename this field "col_Item_qtyOnHand" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§çÆÙ8™¯ß¬¨1
+y	java:S116?"]Rename this field "col_Item_unitPrice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦êĞø8™¯ß¬¨1
+b
+java:S2147v"ECombine this catch with the one at line 115, which has the same body.(ıàÑÎ8¦¯ß¬¨1
+R
+java:S6397l"5Replace this character class by the character itself.(ÚĞòÛ8¨¯ß¬¨1
+T
+java:S1172{"2Remove this unused method parameter "actionEvent".(°‰áòÿÿÿÿÿ8ª¯ß¬¨1
+c
+java:S2147"ECombine this catch with the one at line 141, which has the same body.(ıàÑÎ8¬¯ß¬¨1
+P
+java:S1172”"2Remove this unused method parameter "actionEvent".(£´Ùµ8±¯ß¬¨1
+c
+java:S2147¦"ECombine this catch with the one at line 164, which has the same body.(ıàÑÎ8´¯ß¬¨1
+P
+java:S1172¬"2Remove this unused method parameter "actionEvent".(ö³§Ò8º¯ß¬¨1
+c
+java:S2147ï"ECombine this catch with the one at line 237, which has the same body.(ıàÑÎ8¿¯ß¬¨1
+O
+java:S1172ö"2Remove this unused method parameter "actionEvent".(ŒÖƒN8Ì¯ß¬¨1
+U
+java:S1172û"2Remove this unused method parameter "actionEvent".(ç½µÍúÿÿÿÿ8Î¯ß¬¨1
+M
+java:S1128"+Remove this unused import 'Model.Customer'.(Àğ”«ÿÿÿÿÿ8«©ç¬¨1
+b
+java:S1128"@Remove this unused import 'Model.tableModel.CustomerTableModel'.(„ñ—Øùÿÿÿÿ8«©ç¬¨1

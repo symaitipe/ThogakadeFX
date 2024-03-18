@@ -1,0 +1,8 @@
+
+{
+java:S1104"YMake dashBoardPane a static final constant or non-public and provide accessors if needed.(ώ Ω»ÿÿÿÿÿ8°ψω§1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ί›°Ξ8³ψω§1
+B
+java:S1128"%Remove this unused import 'java.awt'.(ο΄µ©8ύεω§1
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬θύÿÿÿÿ8ύεω§1

@@ -1,0 +1,48 @@
+
+L
+java:S3740D"/Provide the parametrized type for this generic.(–Çş’8•İ´£©1
+Q
+java:S3740M"/Provide the parametrized type for this generic.(”ûÔ¿úÿÿÿÿ8•İ´£©1
+Q
+java:S3740S"/Provide the parametrized type for this generic.(—ŒĞğüÿÿÿÿ8•İ´£©1
+Q
+java:S3740V"/Provide the parametrized type for this generic.(Ú¢éÕùÿÿÿÿ8•İ´£©1
+Q
+java:S3740Y"/Provide the parametrized type for this generic.(çºøÛüÿÿÿÿ8•İ´£©1
+Q
+java:S3740\"/Provide the parametrized type for this generic.(Èâ–úÿÿÿÿ8•İ´£©1
+Q
+java:S3740_"/Provide the parametrized type for this generic.(ıø–»şÿÿÿÿ8•İ´£©1
+Q
+java:S3740b"/Provide the parametrized type for this generic.(ıÀ³şÿÿÿÿ8•İ´£©1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°Î8›İ´£©1
+m
+java:S2095Å"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ĞÿŸÓ8Öİ´£©1
+m
+java:S2095Ù"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ĞÿŸÓ8Öİ´£©1
+r
+java:S2095³"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×°Ùøÿÿÿÿ8Öİ´£©1
+r
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(İ™Öãúÿÿÿÿ8Öİ´£©1
+m
+java:S2095…"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ĞÿŸÓ8Öİ´£©1
+Ÿ
+java:S1186é"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¶ŸØâ8×İ´£©1
+O
+java:S1602ù",Remove useless curly braces around statement(£‰â€ûÿÿÿÿ8îİ´£©1
+O
+java:S1602ü",Remove useless curly braces around statement(›¹Ì¥ûÿÿÿÿ8îİ´£©1
+c
+java:S2147"ECombine this catch with the one at line 269, which has the same body.(ıàÑÎ8ïİ´£©1
+c
+java:S2147©"ECombine this catch with the one at line 295, which has the same body.(ıàÑÎ8ŠŞ´£©1
+c
+java:S2147»"ECombine this catch with the one at line 313, which has the same body.(ıàÑÎ8ªŞ´£©1
+c
+java:S2147Ï"ECombine this catch with the one at line 333, which has the same body.(ıàÑÎ8¬Ş´£©1
+c
+java:S2147ä"ECombine this catch with the one at line 354, which has the same body.(ıàÑÎ8®Ş´£©1
+X
+java:S6397Ü"5Replace this character class by the character itself.(¼´àÊÿÿÿÿÿ8¯Ş´£©1
+P
+java:S1172ê"2Remove this unused method parameter "actionEvent".(¦î¥¹8±Ş´£©1
